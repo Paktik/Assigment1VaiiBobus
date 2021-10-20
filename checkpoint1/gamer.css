@@ -1,0 +1,29 @@
+body {
+    background-color: darkgray;
+}
+
+h1 {
+    background-color: lightseagreen;
+    font-family: "Brush Script MT", Brush, cursive;
+}
+
+.row {
+    border-style: dotted;
+    font-family: "Times New Roman", Times, serif;
+}
+
+div {
+    text-align: center;
+}
+
+p1 {
+    text-align: left;
+    word-spacing: 10px;
+}
+
+img {
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+}
